@@ -1,0 +1,5 @@
+div.map{
+    height: calc(100% / 2);
+    height: -webkit-calc(100% / 2);
+    height: -moz-calc(100% / 2);
+}
