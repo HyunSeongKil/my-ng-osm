@@ -16,7 +16,7 @@
 * vscode 1.55
 
 # 시연 동영상
-assets/angular_osm_heatmap_demo 20210423.mp4
+[다운로드](https://github.com/HyunSeongKil/my-ng-osm/blob/master/src/assets/angular_osm_heatmap_demo%2020210423.mp4?raw=true
 
 
 # MyNgOsm
